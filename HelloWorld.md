@@ -1,4 +1,12 @@
-# datasciencecoursera
-Data Science repository of Pablo Daszenies
+---
+title: "PDS_Markdown"
+author: "Pablo Daszenies"
+date: "5/9/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 ## This is a markdown file
